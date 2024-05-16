@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/my-portfolio2/static/css/main.0a9179bc.css",
-    "main.js": "/my-portfolio2/static/js/main.677bd079.js",
+    "main.js": "/my-portfolio2/static/js/main.ac1248b6.js",
     "static/css/64.bba8fa55.chunk.css": "/my-portfolio2/static/css/64.bba8fa55.chunk.css",
     "static/js/64.56dc6704.chunk.js": "/my-portfolio2/static/js/64.56dc6704.chunk.js",
     "static/css/769.b3cbb36b.chunk.css": "/my-portfolio2/static/css/769.b3cbb36b.chunk.css",
-    "static/js/769.299b838e.chunk.js": "/my-portfolio2/static/js/769.299b838e.chunk.js",
+    "static/js/769.7539dfa5.chunk.js": "/my-portfolio2/static/js/769.7539dfa5.chunk.js",
     "static/media/berkeleyLogo.png": "/my-portfolio2/static/media/berkeleyLogo.7af9d41d99edd8791d06.png",
     "static/media/northeasternLogo.png": "/my-portfolio2/static/media/northeasternLogo.5ccebe61868ea9a42fe9.png",
     "static/media/harvardLogo.png": "/my-portfolio2/static/media/harvardLogo.542dab89bfb35b7f5c0d.png",
@@ -22,14 +22,14 @@
     "index.html": "/my-portfolio2/index.html",
     "static/media/talksCardBack.svg": "/my-portfolio2/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.0a9179bc.css.map": "/my-portfolio2/static/css/main.0a9179bc.css.map",
-    "main.677bd079.js.map": "/my-portfolio2/static/js/main.677bd079.js.map",
+    "main.ac1248b6.js.map": "/my-portfolio2/static/js/main.ac1248b6.js.map",
     "64.bba8fa55.chunk.css.map": "/my-portfolio2/static/css/64.bba8fa55.chunk.css.map",
     "64.56dc6704.chunk.js.map": "/my-portfolio2/static/js/64.56dc6704.chunk.js.map",
     "769.b3cbb36b.chunk.css.map": "/my-portfolio2/static/css/769.b3cbb36b.chunk.css.map",
-    "769.299b838e.chunk.js.map": "/my-portfolio2/static/js/769.299b838e.chunk.js.map"
+    "769.7539dfa5.chunk.js.map": "/my-portfolio2/static/js/769.7539dfa5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0a9179bc.css",
-    "static/js/main.677bd079.js"
+    "static/js/main.ac1248b6.js"
   ]
 }
