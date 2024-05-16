@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.4c2acb05.css",
+    "main.js": "/my-app/static/js/main.f940bcce.js",
+    "static/css/64.bba8fa55.chunk.css": "/my-app/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/my-app/static/js/64.56dc6704.chunk.js",
+    "static/css/769.b3cbb36b.chunk.css": "/my-app/static/css/769.b3cbb36b.chunk.css",
+    "static/js/769.299b838e.chunk.js": "/my-app/static/js/769.299b838e.chunk.js",
+    "static/media/berkeleyLogo.png": "/my-app/static/media/berkeleyLogo.7af9d41d99edd8791d06.png",
+    "static/media/northeasternLogo.png": "/my-app/static/media/northeasternLogo.5ccebe61868ea9a42fe9.png",
+    "static/media/harvardLogo.png": "/my-app/static/media/harvardLogo.542dab89bfb35b7f5c0d.png",
+    "static/media/Montserrat-Regular.ttf": "/my-app/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/bmsLogo.png": "/my-app/static/media/bmsLogo.f83087ccf1c6f7f0d511.png",
+    "static/media/ciscoLogo.png": "/my-app/static/media/ciscoLogo.467b4b530383a81ccfe0.png",
+    "static/media/Agustina.woff": "/my-app/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/my-app/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/ibmLogo.png": "/my-app/static/media/ibmLogo.8dce07a1c64c2dc904ff.png",
+    "static/media/contactMailDark.svg": "/my-app/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/my-app/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/skill.svg": "/my-app/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "static/media/resume.pdf": "/my-app/static/media/resume.f0f733dd3cd732b39262.pdf",
+    "index.html": "/my-app/index.html",
+    "static/media/talksCardBack.svg": "/my-app/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.4c2acb05.css.map": "/my-app/static/css/main.4c2acb05.css.map",
+    "main.f940bcce.js.map": "/my-app/static/js/main.f940bcce.js.map",
+    "64.bba8fa55.chunk.css.map": "/my-app/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/my-app/static/js/64.56dc6704.chunk.js.map",
+    "769.b3cbb36b.chunk.css.map": "/my-app/static/css/769.b3cbb36b.chunk.css.map",
+    "769.299b838e.chunk.js.map": "/my-app/static/js/769.299b838e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c2acb05.css",
+    "static/js/main.f940bcce.js"
+  ]
+}
